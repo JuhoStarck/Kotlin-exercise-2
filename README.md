@@ -1,1 +1,1 @@
-# Kotlin exerccise 2
+# Kotlin exercise 2
